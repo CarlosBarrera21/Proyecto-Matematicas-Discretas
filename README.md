@@ -29,4 +29,6 @@ una mezcla entre numeros,letras y simbolos.
  - C. (2019, 21 marzo). Cifrado Asimétrico con Python. YouTube. Recuperado 2 de marzo de 2022, deC. (2019, 21 marzo). Cifrado Asimétrico con Python. YouTube. Recuperado 2 de marzo de 2022, de https://www.youtube.com/watch?v=MkdlDwqvUHk&feature=youtu.be
  - Werkzeug — Werkzeug Documentation (2.0.x). (s. f.). Werkzeug Documentation (2.0.x). Recuperado 2 de marzo de 2022, de https://werkzeug.palletsprojects.com/en/2.0.x/
  -  PyCrypto API Documentation. (2012). PyCrypto API Documentation. Recuperado 05–24, de https://www.dlitz.net/software/pycrypto/api/2.6/
+ -  Gonzales Gouveia, R. J. (2020, 3 diciembre). Cómo exportar data frames de pandas a csv o excel en python.Recuperado 6 de marzo de 2022, de https://gonzalezgouveia.com/como-exportar-data-frames-de-pandas-a-csv-o-excel-en-python/
+ -  Neobank Transactions. (2021, 29 noviembre). Kaggle. Recuperado 24 de marzo de 2022, de https://www.kaggle.com/arshi2nlp/neobank-transactions
 
