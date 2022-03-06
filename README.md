@@ -1,3 +1,5 @@
+![WhatsApp Image 2022-03-06 at 4 09 03 PM](https://user-images.githubusercontent.com/76496647/156947374-e31507db-d1a0-4408-990d-408a1e7c61dd.jpeg)
+
 # Encriptador de transacciones
 # Integrantes Del Grupo
   - Mateo Geronimo Ortiz Cruzate
