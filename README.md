@@ -24,6 +24,9 @@ Para ello usaremos dos formas de encriptación que se le aplicarán a cada eleme
 Cifrado RSA para los elementos que únicamente contienen números y usaremos el cifrado Sha256 para el resto de elementos de la tupla que contiene
 una mezcla entre numeros,letras y simbolos.
 
+# ✏VIDEO EXPLICATIVO:
+https://www.youtube.com/watch?v=tFWOAoO5aLg
+
 
 # ✏REFERENCIAS:
 
