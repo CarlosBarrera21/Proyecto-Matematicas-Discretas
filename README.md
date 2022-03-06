@@ -22,3 +22,11 @@ Para ello usaremos dos formas de encriptación que se le aplicarán a cada eleme
 Cifrado RSA para los elementos que únicamente contienen números y usaremos el cifrado Sha256 para el resto de elementos de la tupla que contiene
 una mezcla entre numeros,letras y simbolos.
 
+
+# ✏REFERENCIAS:
+
+ - Encriptación de Contraseñas en Python 🔐 | 3 Formas de Cifrar y Desencriptar Textos y Passwords ✅. (2021, 2 julio). YouTube. Recuperado 2 de marzo de 2022, de https://www.youtube.com/watch?v=mgDIP46LEUo&feature=youtu.be
+ - C. (2019, 21 marzo). Cifrado Asimétrico con Python. YouTube. Recuperado 2 de marzo de 2022, deC. (2019, 21 marzo). Cifrado Asimétrico con Python. YouTube. Recuperado 2 de marzo de 2022, de https://www.youtube.com/watch?v=MkdlDwqvUHk&feature=youtu.be
+ - Werkzeug — Werkzeug Documentation (2.0.x). (s. f.). Werkzeug Documentation (2.0.x). Recuperado 2 de marzo de 2022, de https://werkzeug.palletsprojects.com/en/2.0.x/
+ -  PyCrypto API Documentation. (2012). PyCrypto API Documentation. Recuperado 05–24, de https://www.dlitz.net/software/pycrypto/api/2.6/
+
