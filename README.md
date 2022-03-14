@@ -29,9 +29,10 @@ Diseñar un programa que proporcione mayor seguridad y privacidad a la informaci
 
 # ✏Instrucciones para reproducir el proyecto:
 1- Descargar el conjunto de datos dado
-2- Abrir 
-3-
-4-
+2- Abrir el Google Colab que se encuentra en la parte superior de este repositorio
+3- Subir el archivo excel previamente descargado
+![image](https://user-images.githubusercontent.com/93603188/158271490-a08508d1-1c13-402a-a40c-716b811c894a.png)
+4-Ejecutar las celdas en orden descendente
 5-
 6-
 
