@@ -27,6 +27,13 @@ Diseñar un programa que proporcione mayor seguridad y privacidad a la informaci
 # ✏CONJUNTO DE DATOS:
 [DatosOrdenados.xlsx](https://github.com/CarlosBarrera21/Proyecto-Matematicas-Discretas/files/8248838/DatosOrdenados.xlsx)
 
+# ✏Instrucciones para reproducir el proyecto:
+1- Descargar el conjunto de datos dado
+2- Abrir 
+3-
+4-
+5-
+6-
 
 # ✏VIDEO EXPLICATIVO:
 https://www.youtube.com/watch?v=tFWOAoO5aLg
