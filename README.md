@@ -34,7 +34,7 @@ Diseñar un programa que proporcione mayor seguridad y privacidad a la informaci
 - ![image](https://user-images.githubusercontent.com/93603188/158271490-a08508d1-1c13-402a-a40c-716b811c894a.png)
 - Ejecutar las celdas en orden descendente
 - Descargar el archivo con los datos encriptados
-- ![image](https://user-images.githubusercontent.com/93603188/158271957-16054ad3-c4ec-486d-a829-32375075669e.png)
+- ![image](https://user-images.githubusercontent.com/93603188/158272332-e18c538c-ccf5-45a6-8a85-a1c0a52b67c1.png)
 - Verificar que los datos hayan quedado encriptados 
 - ![image](https://user-images.githubusercontent.com/93603188/158272240-7062e948-2e07-4d96-93a7-bec33b6e886e.png)
 
