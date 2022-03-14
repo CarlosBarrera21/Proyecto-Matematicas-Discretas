@@ -28,13 +28,13 @@ Diseñar un programa que proporcione mayor seguridad y privacidad a la informaci
 [DatosOrdenados.xlsx](https://github.com/CarlosBarrera21/Proyecto-Matematicas-Discretas/files/8248838/DatosOrdenados.xlsx)
 
 # ✏Instrucciones para reproducir el proyecto:
-1- Descargar el conjunto de datos dado
-2- Abrir el Google Colab que se encuentra en la parte superior de este repositorio
-3- Subir el archivo excel previamente descargado
-![image](https://user-images.githubusercontent.com/93603188/158271490-a08508d1-1c13-402a-a40c-716b811c894a.png)
-4-Ejecutar las celdas en orden descendente
-5-
-6-
+- Descargar el conjunto de datos dado
+- Abrir el Google Colab que se encuentra en la parte superior de este repositorio
+- Subir el archivo excel previamente descargado
+- ![image](https://user-images.githubusercontent.com/93603188/158271490-a08508d1-1c13-402a-a40c-716b811c894a.png)
+-Ejecutar las celdas en orden descendente
+-
+-
 
 # ✏VIDEO EXPLICATIVO:
 https://www.youtube.com/watch?v=tFWOAoO5aLg
